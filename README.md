@@ -1,6 +1,6 @@
 ## Artist Collab
 
-An app for the forest service to track animals for an environmental impact study.
+A Spark/Java-based web app that brings artists of all mediums together to collaborate, start projects, find team members, and provide on-going communication for the duration of their projects.
 
 #### By _**Mick Sexton, Alena Golovina, Anna Kuznetsova, Anna Timofeyeva**_
 
